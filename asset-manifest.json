@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Kafene-Webapp/static/css/main.1cb6d014.chunk.css",
+    "main.js": "/React-Kafene-Webapp/static/js/main.de2b3ef3.chunk.js",
+    "main.js.map": "/React-Kafene-Webapp/static/js/main.de2b3ef3.chunk.js.map",
+    "runtime-main.js": "/React-Kafene-Webapp/static/js/runtime-main.904502f8.js",
+    "runtime-main.js.map": "/React-Kafene-Webapp/static/js/runtime-main.904502f8.js.map",
+    "static/js/2.97c07108.chunk.js": "/React-Kafene-Webapp/static/js/2.97c07108.chunk.js",
+    "static/js/2.97c07108.chunk.js.map": "/React-Kafene-Webapp/static/js/2.97c07108.chunk.js.map",
+    "static/js/3.ab5a91ec.chunk.js": "/React-Kafene-Webapp/static/js/3.ab5a91ec.chunk.js",
+    "static/js/3.ab5a91ec.chunk.js.map": "/React-Kafene-Webapp/static/js/3.ab5a91ec.chunk.js.map",
+    "index.html": "/React-Kafene-Webapp/index.html",
+    "static/css/main.1cb6d014.chunk.css.map": "/React-Kafene-Webapp/static/css/main.1cb6d014.chunk.css.map",
+    "static/js/2.97c07108.chunk.js.LICENSE.txt": "/React-Kafene-Webapp/static/js/2.97c07108.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.904502f8.js",
+    "static/js/2.97c07108.chunk.js",
+    "static/css/main.1cb6d014.chunk.css",
+    "static/js/main.de2b3ef3.chunk.js"
+  ]
+}
